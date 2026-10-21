@@ -1,0 +1,2 @@
+# Real-Time-Sugarcane-Stem-Node-Detection-Using-an-Optimized-YOLOv8n-Model
+This study develops a lightweight YOLOv8n-based model for real-time sugarcane stem node detection. A field-collected dataset of 450 images covering two commercially important varieties was created. Hyperparameter optimization and advanced data augmentation were applied to improve model generalization and detection performance.
